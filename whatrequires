@@ -1,4 +1,5 @@
 # This file contains recursive sources that require this package
 R-basefun
 R-mlt
+R-tram
 R-trtf
